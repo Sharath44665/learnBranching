@@ -63,3 +63,19 @@ The new threat was discovered by Sophos, a well-known cybersecurity firm. In a
 Sophos News post, it was stated that the CVE-2021-16098 vulnerability "allows an authenticated 
 user to read and write to arbitrary memory, which could be exploited for privilege escalation,
  code execution under high privileges, or information disclosure". 
+________________________________
+--------------
+The 12 Best Augmented Reality Apps for Android
+-----------------
+1. Google Translate
+2. Assemblr Studio
+3. AR Compass
+4. Halo AR
+5. View
+6. Dulux Visualizer
+7. Wanna Kicks
+8. Zenni Optical
+9. Goodstyle
+10. AR Ruler
+11. Google Lens
+12. AR Viewer
