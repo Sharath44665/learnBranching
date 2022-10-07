@@ -63,3 +63,20 @@ The new threat was discovered by Sophos, a well-known cybersecurity firm. In a
 Sophos News post, it was stated that the CVE-2021-16098 vulnerability "allows an authenticated 
 user to read and write to arbitrary memory, which could be exploited for privilege escalation,
  code execution under high privileges, or information disclosure". 
+________________________________
+-----------
+Is the Pixel 7 Pro Worth $300 More Than the Pixel 7?
+----------------
+Google has officially refreshed the Pixel line with the new Pixel
+ 7 and 7 Pro. Both phones push the Android envelope with advances in
+  computational photography, security enhancements, and the longest 
+  software support of any Google phone. But there are, of course, differences
+   between the 7 and the 7 Pro. The question is, which one is worth buying?
+Google Tensor G2 chip
+
+With the Pixel 6 and Pixel 6 Pro, Google introduced its Tensor 
+chip, the first time a Pixel device shipped with a Google-made SoC. 
+Google is continuing on that momentum with the Tensor G2 chip. This year,
+ the chip features a next-gen on-device Tensor processing unit (TPU), which helps power 
+ machine learning throughout Pixel 7 and 7 Pro. That machine learning is up to 60% faster 
+ and 20% more efficient, according to Google
