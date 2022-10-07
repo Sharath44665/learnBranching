@@ -94,3 +94,17 @@ ________________________________
 8. Keep Laptop Awake When Closed
 9. Alter Keyboard, Mouse, or Touchpad Settings
 10. Tweak Window Behavior
+________________________________
+
+----
+GNOME 43 Lands With Major Linux Desktop UI, Device Security Enhancements
+----------
+ What's New in GNOME 43?
+
+The new version includes a raft of user interface tweaks.
+
+The quick settings menu offers a way to switch quickly between 
+light and dark modes, building on the enhanced dark mode that was
+ offered in GNOME 42. The menu also offers a new button to take screenshots,
+  as well as the ability to switch quickly among different sound devices if they're
+   present. The menu will also connect to the last-used VPN.
