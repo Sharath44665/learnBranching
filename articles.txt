@@ -43,3 +43,23 @@ like custom speeds, 1.1x was the most used speed. Just a little faster,
 but not too much! YouTube users saved an average of over 900 years
 of video time per day when watching at faster speeds. That would be like 
 watching PSY’s “Gangnam Style” nearly 113 million times.
+________________________________
+--------------
+BlackByte Ransomware Abuses Legitimate Drivers to Disable Security Measures
+-------------------
+ BlackByte Ransomware Used to Bypass Security Layers
+
+BlackByte ransomware has been in use since 2021 and acts as a ransomware-as-a-service organization. 
+These groups offer ransomware products to other malicious actors for a fee. BlackByte is now back in
+ the spotlight after being used in a tactic known as "Bring Your Own Driver". In this attack, 
+ cybercriminals are exploiting a vulnerability within the RTCore64.sys Windows graphics overclocking
+  utility driver known as CVE-2021-16098.
+
+A Bring Your Own Driver attack involves installing a vulnerable version of the
+ RTCore64.sys driver onto a victim's device. The attacker can then abuse this flawed 
+ driver while also staying under the radar of security software.
+
+The new threat was discovered by Sophos, a well-known cybersecurity firm. In a 
+Sophos News post, it was stated that the CVE-2021-16098 vulnerability "allows an authenticated 
+user to read and write to arbitrary memory, which could be exploited for privilege escalation,
+ code execution under high privileges, or information disclosure". 
