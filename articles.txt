@@ -79,3 +79,18 @@ The 12 Best Augmented Reality Apps for Android
 10. AR Ruler
 11. Google Lens
 12. AR Viewer
+________________________________
+
+---
+10 Reasons You Should Be Using the GNOME Tweaks Tool 
+-----------
+1. Change Application Theme
+2. Change the GNOME Shell Theme
+3. Change Icon Theme
+4. Tweak Lock Screen
+5. Tweak Clock Appearance
+6. Adjust Fonts
+7. Add or Remove Titlebar Buttons
+8. Keep Laptop Awake When Closed
+9. Alter Keyboard, Mouse, or Touchpad Settings
+10. Tweak Window Behavior
